@@ -43,8 +43,8 @@
 
 ### 🚀 About Me
 - 🏗 Civil Engineer & **Financial Markets Analyst**.  
-- 📊 Specializing in **Synthetic Indices, US30, Gold, and Forex**.  
-- 🎯 Skilled in **Smart Money Concepts, Price Action, and Multi-timeframe Analysis**.  
+- 📊 Specializing in **Synthetic Indices, Gold, and S&P 500**.  
+- 🎯 Skilled in **Smart Money Concepts, Price Action, and Day Trader**.  
 - 🟣🟡 Proud Lakers fan — chasing both **market pips** and **NBA rings**.  
 
 ---
