@@ -29,7 +29,7 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-kuz&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=1A1B27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-kuz&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=1A1B27" />
 </p>
 
 ---
